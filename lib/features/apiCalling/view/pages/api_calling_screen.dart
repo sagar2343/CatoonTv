@@ -31,6 +31,7 @@ class _ApiCallingScreenState extends State<ApiCallingScreen> {
               expandedHeight: 250,
               floating: false,
               pinned: true,
+
               flexibleSpace: FlexibleSpaceBar(
                 centerTitle: true,
                 title: const Text('Api Calling Screen',style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
